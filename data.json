@@ -1,0 +1,124 @@
+{
+    "Series": [
+        {
+            "picture":"",
+            "name":"Elite",
+            "Genre":"Thriller,Drame",
+            "Creator":"Dario Madrona, Carlos Montero",
+            "Production":"Zeta Producciones",
+            "NbEp": 40,
+            "NbSaison": 5,
+            "Synopsis":"Lorsque trois ados issus de la classe ouvrière accèdent à une école élitiste d'Espagne, le fossé qui les sépare des élèves fortunés conduit à la pire des tragédies."
+            
+        },
+
+        {   
+            "picture":"",
+            "name":"The Good Place",
+            "Genre":"Comédie",
+            "Creator":"Michael Schur",
+            "Production":"Universal Television Group, FREMULON",
+            "NbEp": 52,
+            "NbSaison": 4,
+            "Synopsis":"Après avoir été percutée et tuée par un semi-remorque, Eleanor se réveille dans ce qui semble être la vie après la mort. Lorsque Michael, l'Architecte des lieux, lui apprend qu'elle est au 'Bon endroit' compte tenu ses bonnes actions, elle réalise qu'elle a été confondue avec quelqu'un d'autre."
+            
+        },
+
+        {
+            "picture":"",
+            "name":"Narcos",
+            "Genre":"Dramatique, Policier",
+            "Creator":"Chris Brancato",
+            "Production":"Gaumont",
+            "NbEp":30,
+            "NbSaison":3,
+            "Synopsis":"Loin d'un simple biopic de Pablo Escobar, Narcos retrace la lutte acharnée des États-Unis et de la Colombie contre le cartel de la drogue de Medellín, l'organisation la plus lucrative et impitoyable de l'histoire criminelle moderne."
+            
+        },
+
+        {
+            "picture":"",
+            "name":"Peaky Blinders",
+            "Genre":"Drame, Historique",
+            "Creator":"Steven Knight",
+            "Production":"Katie Swinden",
+            "NbEp":36,
+            "NbSaison":6,
+            "Synopsis":"En 1919, à Birmingham, soldats, révolutionnaires, politiques et criminels combattent pour se faire une place dans le paysage industriel de l'après-Guerre. Le Parlement s'attend à une violente révolte, et Winston Churchill mobilise des forces spéciales pour contenir les menaces."
+            
+        },
+
+        {   
+            "picture":"",
+            "name":"Boojack Horseman",
+            "Genre":"Dramatique,satire,sitcom animée",
+            "Creator":"Raphael Bob-Waksberg",
+            "Production":"Sampson,Lisa Hanawalt",
+            "NbEp":76,
+            "NbSaison":6,
+            "Synopsis":"Alcoolique et déprimé, BoJack vit dans une garçonnière à Hollywood et traîne son amertume dans des pulls bigarrés. Heureusement (ou malheureusement ?), le bourrin peut compter sur des amis parfois un brin encombrants : Diane NGuyen, nègre littéraire chargé d’écrire son autobiographie, Princess Carolyn, tour à tour ex-petite amie et agent attitrée, Todd Chavez, colocataire autoproclamé et même le cabotin Mr. Peanutbutter, rival et héros toujours populaire d’une sitcom analogue. À Los Angeles où humains et animaux de tout poil cohabitent, BoJack essaie tant bien que mal de raviver sa gloire passée."
+            
+        },
+
+        {   
+            "picture":"",
+            "name":"The End Of The Fucking World",
+            "Genre":"Humour noir,Comédie dramatique",
+            "Creator":"Charlie Covell",
+            "Production":"Kate Ogborn",
+            "NbEp":16,
+            "NbSaison":2,
+            "Synopsis":"James, âgé de dix-sept ans et vivant seul avec son père veuf, se présente comme un psychopathe. Il tue régulièrement des animaux comme passe-temps, mais à force, ça l'ennuie. Il décide donc d'essayer avec un humain. Il choisit Alyssa, une camarade de lycée désabusée qui a ses propres problèmes, notamment une mère un peu paumée et un beau-père aux mains baladeuses. Pour satisfaire son envie d'aventure et fuir son quotidien, elle lui propose de fuguer ensemble. James accepte, voyant là un moyen de la tuer. Se lançant dans un road-trip avec sa présumée proie, James commence à avoir des sentiments amoureux pour Alyssa, ce qui va venir perturber leur relation."
+            
+        },
+
+        {
+            "picture":"",
+            "name":"How Sell Drugs Online",
+            "Genre":"Comédie,Drame,Crime",
+            "Creator":"Philipp Käßbohrer,Matthias Murmann",
+            "Production":"Netflix, bildundtonfabrik",
+            "NbEp":18,
+            "NbSaison":6,
+            "Synopsis":"How to Sell Drugs Online (Fast) se déroule à Rinseln, en Allemagne, et décrit du point de vue du paria du lycée Moritz Zimmermann. La série suit Moritz et son ami Lenny Sander qui tentent de raviver l'amour entre Moritz et son ex-petite amie Lisa Novak, en vendant de l'ecstasy en ligne. Au départ comme une petite entreprise, elle devient rapidement incontrôlable et Moritz et Lenny apprennent à faire face aux conséquences du trafic de drogue à grande échelle"
+            
+        },
+
+        {
+            "picture":"",
+            "name":"Lucifer",
+            "Genre":"Fantastique,Dramatique,Comédie",
+            "Creator":"Tom Kapinos",
+            "Production":"Jerry Bruckheimer,Len Wiseman",
+            "NbEp":93,
+            "NbSaison":6,
+            "Synopsis":"Lassé et mécontent de sa position de 'Seigneur des Enfers', Lucifer Morningstar démissionne et abandonne le trône de son royaume pour la bouillonnante et non moins impure Los Angeles. Dans la Cité des anges, l'ex maître diabolique est le patron d'un nightclub baptisé 'Lux'."
+            
+        },
+
+        {
+            "picture":"",
+            "name":"Mr.Robot",
+            "Genre":"Dramatique, Techno-Thriller",
+            "Creator":"Sam Esmail",
+            "Production":"Universal Cable Productions,Anonymous Content",
+            "NbEp":45,
+            "NbSaison":4,
+            "Synopsis":"Robot », un mystérieux anarchiste qui souhaite le recruter dans son groupe de hackers connu sous le nom de « Fsociety ». Leur objectif consiste à rétablir l'équilibre de la société par la destruction des infrastructures des plus grosses banques et entreprises du monde, notamment le conglomérat E Corp."
+            
+        },
+
+        {
+            "picture":"",
+            "name":"On My Block",
+            "Genre":"Comédie dramatique initiatique",
+            "Creator":"Lauren Iungerich,Eddie Gonzalez,Jeremy Haft",
+            "Production":"Crazy Cat Lady Productions",
+            "NbEp":38,
+            "NbSaison":4,
+            "Synopsis":"Cette série de 4 saisons suit le quotidien de quatre adolescents et amis de longue date dans une banlieue de Los Angeles, dont la vie est chamboulée par l'entrée de l'un d'entre eux dans un gang. Ils vont alors tout faire pour le dissuader de travailler pour cette organisation criminelle mais la tâche s'annonce moins facile quand le grand frère de celui-ci en est le chef."
+            
+        }
+    ]
+} 
+
