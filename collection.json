@@ -1,7 +1,7 @@
 {
     "Series": [
         {
-            "picture":"",
+            "picture":"assets/img/elite.jpg",
             "name":"Elite",
             "Genre":"Thriller,Drame",
             "Creator":"Dario Madrona, Carlos Montero",
@@ -13,7 +13,7 @@
         },
 
         {   
-            "picture":"",
+            "picture":"assets/img/the-good-place.jpg",
             "name":"The Good Place",
             "Genre":"Comédie",
             "Creator":"Michael Schur",
@@ -25,7 +25,7 @@
         },
 
         {
-            "picture":"",
+            "picture":"assets/img/narcos.jpg",
             "name":"Narcos",
             "Genre":"Dramatique, Policier",
             "Creator":"Chris Brancato",
@@ -37,7 +37,7 @@
         },
 
         {
-            "picture":"",
+            "picture":"assets/img/peaky-blinders.jpg",
             "name":"Peaky Blinders",
             "Genre":"Drame, Historique",
             "Creator":"Steven Knight",
@@ -49,7 +49,7 @@
         },
 
         {   
-            "picture":"",
+            "picture":"assets/img/bojack.jpg",
             "name":"Boojack Horseman",
             "Genre":"Dramatique,satire,sitcom animée",
             "Creator":"Raphael Bob-Waksberg",
@@ -61,7 +61,7 @@
         },
 
         {   
-            "picture":"",
+            "picture":"assets/the-end-of-poster.jpg",
             "name":"The End Of The Fucking World",
             "Genre":"Humour noir,Comédie dramatique",
             "Creator":"Charlie Covell",
@@ -73,7 +73,7 @@
         },
 
         {
-            "picture":"",
+            "picture":"assets/img/htsdo.jpg",
             "name":"How Sell Drugs Online",
             "Genre":"Comédie,Drame,Crime",
             "Creator":"Philipp Käßbohrer,Matthias Murmann",
@@ -85,7 +85,7 @@
         },
 
         {
-            "picture":"",
+            "picture":"assets/img/lucifer.jpg",
             "name":"Lucifer",
             "Genre":"Fantastique,Dramatique,Comédie",
             "Creator":"Tom Kapinos",
@@ -97,7 +97,7 @@
         },
 
         {
-            "picture":"",
+            "picture":"assets/img/mr-robot.jpg",
             "name":"Mr.Robot",
             "Genre":"Dramatique, Techno-Thriller",
             "Creator":"Sam Esmail",
@@ -109,7 +109,7 @@
         },
 
         {
-            "picture":"",
+            "picture":"assets/img/on-my-block.jpg",
             "name":"On My Block",
             "Genre":"Comédie dramatique initiatique",
             "Creator":"Lauren Iungerich,Eddie Gonzalez,Jeremy Haft",
